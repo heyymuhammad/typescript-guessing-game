@@ -1,0 +1,33 @@
+{
+  "name": "guessing-game-by-sultan",
+  "version": "1.0.0",
+  "description": "A simple number guessing game programmed using typescript inquirer module.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyymuhammad/typescript-guessing-game.git"
+  },
+  "keywords": [
+    "typescript",
+    "node",
+    "game",
+    "guess"
+  ],
+  "author": "Sultan Muhammad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyymuhammad/typescript-guessing-game/issues"
+  },
+  "homepage": "https://github.com/heyymuhammad/typescript-guessing-game#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
